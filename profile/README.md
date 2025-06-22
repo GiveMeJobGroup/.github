@@ -10,4 +10,4 @@
 
 ### 진행 프로젝트
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GiveMeJobGroup&repo=2025-IoT-MiniProject&theme=swift)](https://github.com/GiveMeJobGroup/2025-IoT-MiniProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GiveMeJobGroup&repo=2025-IoT-MiniProject-2&theme=swift)](https://github.com/GiveMeJobGroup/2025-IoT-MiniProject-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GiveMeJobGroup&repo=2025-IoT-TeamProject&theme=swift)](https://github.com/GiveMeJobGroup/2025-IoT-TeamProject)
