@@ -7,3 +7,7 @@
 - 류보경 [_>](https://github.com/Bokyung-R)
 - 이예찬 [_>](https://github.com/emilianolee)
 - 이현호 [_>](https://github.com/hyeonnnho)
+
+### 진행 프로젝트
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GiveMeJobGroup&repo=2025-IoT-MiniProject&theme=swift)](https://github.com/GiveMeJobGroup/2025-IoT-MiniProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GiveMeJobGroup&repo=2025-IoT-MiniProject-2&theme=swift)](https://github.com/GiveMeJobGroup/2025-IoT-MiniProject-2)
